@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/NKazakova/JavaSchool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NKazakova/Sale.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\SBT-Kazakova-NV\IdeaProjects\test2" />
+    <option name="cloneParentDir" value="C:\Users\SBT-Kazakova-NV\IdeaProjects\Sale" />
   </component>
 </application>
